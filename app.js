@@ -64,11 +64,11 @@ function checkNumber(msg) {
       `
   } else if (num > randomNumber) {
       messageEl.innerHTML += `
-      <div>WRONG!  Guess was too high; </div> <br> <div>guess a loweer number next time.</div>
+      <div>WRONG!</div> <br> <div>Guess was too high; </div> <br> <div>Guess a lower number next time.</div>
       `
   } else {
       messageEl.innerHTML += `
-      <div>WRONG! Guess was too low; </div> <br> <div>Guess a higher number next time.</div>
+      <div>WRONG!</div> <br> <div>Guess was too low; </div> <br> <div>Guess a higher number next time.</div>
       `
   }
 }

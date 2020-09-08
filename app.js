@@ -59,7 +59,7 @@ function checkNumber(msg) {
       <h2>Congratulations!!</h2>
       <br>
       <br>
-      <h3>The correct numberr was ${num}</h3>
+      <h3>The correct number was ${num}</h3>
       <button class="play-again" id="play-again">Play Again?</button>
       `
   } else if (num > randomNumber) {

@@ -2,7 +2,7 @@
 
 The [Number Guess](https://etorres-revature.github.io/Number_Guess/) app utilizes the [SpeechRecognition](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition) interface of the [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) for its functionality.  
 
-The Number Guess chooses a random number between 1 and 100.  The user speaks his guess for the number.  If the user guesses a word that is not a number, the Numer Guess app will tell it to guess a number.  If the number is over or under the limits, the Number Guess app will ask the user to guess in the range.  The Number Guess app will use the guess spoken by the user to determine if the guess is too high, too low, or correct; and display a message according to the number guessed.
+The Number Guess app chooses a random number between 1 and 100.  The user speaks his guess for the number.  If the user guesses a word that is not a number, the Numer Guess app will tell it to guess a number.  If the number is over or under the limits, the Number Guess app will ask the user to guess in the range.  The Number Guess app will use the guess spoken by the user to determine if the guess is too high, too low, or correct; and display a message according to the number guessed.
 
 Please enjoy the [Number Guess](https://etorres-revature.github.io/Audio_Player/).  E-mail me with any feature update suggestions.
 
@@ -28,7 +28,7 @@ Separation of formating and content also makes it feasible to present the same m
 
 *JavaScript* content borrowed from <a target="_blank" rel="noopener noreferrer">[this page](https://en.wikipedia.org/wiki/JavaScript).</a>
 
-#### SpeechRecognition
+#### :speech_balloon: SpeechRecognition :speech_balloon:
 
 The **SpeechRecognition** interface of teh Web Speech API is the controller interface for the recognition service. It is a part of the [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API).
 
